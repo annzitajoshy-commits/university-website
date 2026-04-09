@@ -22,4 +22,5 @@ This website contains a homepage that introduces the university, its courses, an
 https://github.com/annzitajoshy-commits/university-website.git
 
 ## Author
-Your Name
+Annzita Joshi
+
